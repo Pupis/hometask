@@ -5,10 +5,10 @@ Install Node.js. https://nodejs.org/en/download/
 
 Install dependencies `npm i`
 
-## Run with npm using default file
+## Run with npm
 `npm run start`
 
-Run in development mode
+## Run in development mode
 `npm run debug`
 
 ## Unit tests
